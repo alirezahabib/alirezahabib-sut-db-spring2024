@@ -1,0 +1,249 @@
+actor_id,name
+0,Brad Pitt
+1,Edward Norton
+2,Meat Loaf
+3,Elijah Wood
+4,Viggo Mortensen
+5,Ian McKellen
+6,Timothée Chalamet
+7,Zendaya
+8,Rebecca Ferguson
+9,Leonardo DiCaprio
+10,Joseph Gordon-Levitt
+11,Elliot Page
+12,Clint Eastwood
+13,Eli Wallach
+14,Lee Van Cleef
+15,Orlando Bloom
+16,Keanu Reeves
+17,Laurence Fishburne
+18,Carrie-Anne Moss
+19,Christian Bale
+20,Heath Ledger
+21,Aaron Eckhart
+22,Russell Crowe
+23,Joaquin Phoenix
+24,Connie Nielsen
+25,Alexandre Rodrigues
+26,Leandro Firmino
+27,Matheus Nachtergaele
+28,Adrien Brody
+29,Thomas Kretschmann
+30,Frank Finlay
+31,Matthew McConaughey
+32,Anne Hathaway
+33,Jessica Chastain
+34,Jean Reno
+35,Gary Oldman
+36,Natalie Portman
+37,Matt Damon
+38,Jack Nicholson
+39,Kevin Spacey
+40,Gabriel Byrne
+41,Chazz Palminteri
+42,Hugh Jackman
+43,Scarlett Johansson
+44,Philippe Noiret
+45,Enzo Cannavale
+46,Antonella Attili
+47,Tsutomu Tatsumi
+48,Ayano Shiraishi
+49,Akemi Yamaguchi
+50,Henry Fonda
+51,Charles Bronson
+52,Claudia Cardinale
+53,Sigourney Weaver
+54,Tom Skerritt
+55,John Hurt
+56,Ben Burtt
+57,Elissa Knight
+58,Jeff Garlin
+59,Ulrich Mühe
+60,Martina Gedeck
+61,Sebastian Koch
+62,Shameik Moore
+63,Jake Johnson
+64,Hailee Steinfeld
+65,Robert Downey Jr.
+66,Chris Hemsworth
+67,Mark Ruffalo
+68,Shelley Duvall
+69,Danny Lloyd
+70,Peter Sellers
+71,George C. Scott
+72,Sterling Hayden
+73,Michael Biehn
+74,Carrie Henn
+75,Anthony Gonzalez
+76,Gael García Bernal
+77,Benjamin Bratt
+78,Diane Kruger
+79,Eli Roth
+80,F. Murray Abraham
+81,Tom Hulce
+82,Elizabeth Berridge
+83,Cillian Murphy
+84,Emily Blunt
+85,Robert De Niro
+86,Zazie Beetz
+87,James Woods
+88,Elizabeth McGovern
+89,Zain Al Rafeea
+90,Yordanos Shiferaw
+91,Boluwatife Treasure Bankole
+92,Mads Mikkelsen
+93,Thomas Bo Larsen
+94,Annika Wedderkopp
+95,Keir Dullea
+96,Gary Lockwood
+97,William Sylvester
+98,Lubna Azabal
+99,Mélissa Désormeaux-Poulin
+100,Maxim Gaudette
+101,Matthew Modine
+102,R. Lee Ermey
+103,Vincent D&apos;Onofrio
+104,Malcolm McDowell
+105,Patrick Magee
+106,Michael Bates
+107,Audrey Tautou
+108,Mathieu Kassovitz
+109,Rufus
+110,Payman Maadi
+111,Leila Hatami
+112,Sareh Bayat
+113,Jason Statham
+114,Stephen Graham
+115,Aamir Khan
+116,Sakshi Tanwar
+117,Fatima Sana Shaikh
+118,Dean-Charles Chapman
+119,George MacKay
+120,Daniel Mays
+121,Bruno Ganz
+122,Alexandra Maria Lara
+123,Ulrich Matthes
+124,Gian Maria Volontè
+125,Michael Caine
+126,Ken Watanabe
+127,Anthony Hopkins
+128,Olivia Colman
+129,Mark Gatiss
+130,Mahershala Ali
+131,Linda Cardellini
+132,Sharon Stone
+133,Joe Pesci
+134,Tatsuya Nakadai
+135,Akira Terao
+136,Jinpachi Nezu
+137,Tom Hardy
+138,Ivana Baquero
+139,Ariadna Gil
+140,Sergi López
+141,Kurt Russell
+142,Wilford Brimley
+143,Keith David
+144,Albert Brooks
+145,Ellen DeGeneres
+146,Alexander Gould
+147,Anne Bancroft
+148,Hugo Weaving
+149,Rupert Graves
+150,Ricardo Darín
+151,Soledad Villamil
+152,Pablo Rago
+153,Ewan McGregor
+154,Ewen Bremner
+155,Jonny Lee Miller
+156,Frances McDormand
+157,Woody Harrelson
+158,Sam Rockwell
+159,Tom Hanks
+160,Christopher Walken
+161,William H. Macy
+162,Steve Buscemi
+163,Bee Vang
+164,Christopher Carley
+165,Daniel Radcliffe
+166,Emma Watson
+167,Rupert Grint
+168,Chiwetel Ejiofor
+169,Michael Kenneth Williams
+170,Michael Fassbender
+171,Ralph Fiennes
+172,Mathieu Amalric
+173,Ethan Hawke
+174,Julie Delpy
+175,Andrea Eckert
+176,Harrison Ford
+177,Rutger Hauer
+178,Sean Young
+179,Ryan O&apos;Neal
+180,Marisa Berenson
+181,Daniel Day-Lewis
+182,Pete Postlethwaite
+183,Alison Crosbie
+184,Darío Grandinetti
+185,María Marull
+186,Mónica Villa
+187,Yves Montand
+188,Charles Vanel
+189,Peter van Eyck
+190,Jay Baruchel
+191,Gerard Butler
+192,Christopher Mintz-Plasse
+193,Brie Larson
+194,Jacob Tremblay
+195,Sean Bridgers
+196,Jeff Bridges
+197,John Goodman
+198,Julianne Moore
+199,Vernon Dobtcheff
+200,Don Cheadle
+201,Sophie Okonedo
+202,Charlie Sheen
+203,Tom Berenger
+204,Willem Dafoe
+205,Arnold Schwarzenegger
+206,Linda Hamilton
+207,Daniel Brühl
+208,Olivia Wilde
+209,Jason Flemyng
+210,Dexter Fletcher
+211,Nick Moran
+212,Craig T. Nelson
+213,Samuel L. Jackson
+214,Holly Hunter
+215,Richard Gere
+216,Joan Allen
+217,Cary-Hiroyuki Tagawa
+218,Brahim Hadjadj
+219,Jean Martin
+220,Yacef Saadi
+221,Eli Marienthal
+222,Harry Connick Jr.
+223,Jennifer Aniston
+224,Emma Stone
+225,Viola Davis
+226,Octavia Spencer
+227,Kevin Costner
+228,Mary McDonnell
+229,Graham Greene
+230,Scott Weinger
+231,Robin Williams
+232,Linda Larkin
+233,John Cazale
+234,Amy Adams
+235,Jeremy Renner
+236,Forest Whitaker
+237,Kyle MacLachlan
+238,Virginia Madsen
+239,Francesca Annis
+240,Marianne Koch
+241,Ryan Gosling
+242,Ana de Armas
+243,Martin Freeman
+244,Richard Armitage
+245,Hayden Christensen
+246,Michael Keaton
+247,Kim Basinger
