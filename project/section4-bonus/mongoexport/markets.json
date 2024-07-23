@@ -1,0 +1,2 @@
+{"_id":{"$oid":"66802b5fbbba1d025bc80026"},"marketId":"btc_usd","base_currency":"BTC","quote_currency":"USD","last_price":45000,"trading_volume":1000}
+{"_id":{"$oid":"66802b5fbbba1d025bc80027"},"marketId":"eth_usd","base_currency":"ETH","quote_currency":"USD","last_price":3000,"trading_volume":5000}

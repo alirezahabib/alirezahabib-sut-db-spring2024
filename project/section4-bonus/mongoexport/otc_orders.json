@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6680585290f9c1289560c647"},"userId":"12345","currency":"BTC","amount":1.0,"price":45000.0,"type":"buy","status":"canceled","timestamp":{"$date":"2024-06-29T18:54:10.103Z"}}

@@ -1,0 +1,4 @@
+{"_id":{"$oid":"66805aa0e88ca3d3729fc874"},"userId":"12345","marketId":"btc_usd","amount":1.0,"price":45000.0,"type":"buy","status":"pending","timestamp":{"$date":"2024-06-29T19:04:00.905Z"}}
+{"_id":{"$oid":"66805ab1e88ca3d3729fc876"},"userId":"12345","marketId":"btc_usd","amount":1.0,"price":45000.0,"type":"buy","status":"pending","timestamp":{"$date":"2024-06-29T19:04:17.219Z"}}
+{"_id":{"$oid":"66805b5d450cedc0fd8bc68b"},"userId":"12345","marketId":"btc_usd","amount":1.0,"price":45000.0,"type":"buy","status":"pending","timestamp":{"$date":"2024-06-29T19:07:09.946Z"}}
+{"_id":{"$oid":"66805b9f374cd76950c2a42f"},"userId":"12345","marketId":"btc_usd","amount":1.0,"price":45000.0,"type":"buy","status":"canceled","timestamp":{"$date":"2024-06-29T19:08:15.215Z"}}

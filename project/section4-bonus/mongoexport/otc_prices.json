@@ -1,0 +1,2 @@
+{"_id":{"$oid":"66802b56bbba1d025bc80024"},"currency":"BTC","buy_price":45000,"sell_price":45500}
+{"_id":{"$oid":"66802b56bbba1d025bc80025"},"currency":"ETH","buy_price":3000,"sell_price":3100}

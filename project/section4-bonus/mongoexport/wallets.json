@@ -1,0 +1,6 @@
+{"_id":{"$oid":"66805e8cbbba1d025bc80028"},"userId":"12345","address":"1A2b3C4d5E6F7G8H9I0J","balance":24.5,"currency":"BTC"}
+{"_id":{"$oid":"66805e8cbbba1d025bc80029"},"userId":"12345","address":"2B3C4D5E6F7G8H9I0J1A","balance":25,"currency":"ETH"}
+{"_id":{"$oid":"66805e8cbbba1d025bc8002a"},"userId":"12345","address":"3C4D5E6F7G8H9I0J1A2B","balance":50,"currency":"USDT"}
+{"_id":{"$oid":"66805e8cbbba1d025bc8002b"},"userId":"67890","address":"J0I9H8G7F6E5D4C3B2A1","balance":5.75,"currency":"ETH"}
+{"_id":{"$oid":"66805e8cbbba1d025bc8002c"},"userId":"11121","address":"K9L8M7N6O5P4Q3R2S1T","balance":6.0,"currency":"BTC"}
+{"_id":{"$oid":"66805e8cbbba1d025bc8002d"},"userId":"67890","address":"E1D2C3B4A5F6G7H8I9J0","balance":12.5,"currency":"BTC"}
